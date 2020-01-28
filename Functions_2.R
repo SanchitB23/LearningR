@@ -6,3 +6,4 @@
 source('Functions_1.R')
 v <- volCylinder(5, 10)
 print(v)
+print(volCylinderMimo())
